@@ -7,10 +7,14 @@ namespace tic_tac
 
         static void Main(string[]args)
         {
-            char[] Board;
+            //char[] Board;
+            //Tictactoe obj = new Tictactoe();
+             //Board = obj.Board();
+
+            char[] Player;
             Tictactoe obj = new Tictactoe();
-            Board = obj.Board();
-            
+            obj.Player();
+
         }
     }
 }
