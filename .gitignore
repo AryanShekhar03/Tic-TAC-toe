@@ -1,0 +1,5 @@
+.vs
+bin/
+obj/
+tic tac.csproj
+tic tac.sln
